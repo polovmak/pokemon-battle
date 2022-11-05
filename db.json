@@ -3,8 +3,141 @@
     {
       "id": 1,
       "type": "grass",
-      "power": "10",
+      "power": 10,
       "name": "Bulbasaur",
+      "trainer": ""
+    },
+    {
+      "id": 2,
+      "type": "fire",
+      "power": 10,
+      "name": "Charmander",
+      "trainer": ""
+    },
+    {
+      "id": 3,
+      "type": "water",
+      "power": 10,
+      "name": "Squirtle",
+      "trainer": ""
+    },
+    {
+      "id": 4,
+      "type": "electric",
+      "power": 8,
+      "name": "Pikachu",
+      "trainer": ""
+    },
+    {
+      "id": 5,
+      "type": "ground",
+      "power": 11,
+      "name": "Sandshrew",
+      "trainer": ""
+    },
+    {
+      "id": 6,
+      "type": "fire",
+      "power": 13,
+      "name": "Vulpix",
+      "trainer": ""
+    },
+    {
+      "id": 7,
+      "type": "ground",
+      "power": 7,
+      "name": "Diglett",
+      "trainer": ""
+    },
+    {
+      "id": 8,
+      "type": "water",
+      "power": 9,
+      "name": "Poliwag",
+      "trainer": ""
+    },
+    {
+      "id": 9,
+      "type": "fire",
+      "power": 15,
+      "name": "Growlithe",
+      "trainer": ""
+    },
+    {
+      "id": 10,
+      "type": "electric",
+      "power": 10,
+      "name": "Voltorb",
+      "trainer": ""
+    },
+    {
+      "id": 11,
+      "type": "electric",
+      "power": 14,
+      "name": "Magnemite",
+      "trainer": ""
+    },
+    {
+      "id": 12,
+      "type": "water",
+      "power": 13,
+      "name": "Staryu",
+      "trainer": ""
+    },
+    {
+      "id": 13,
+      "type": "fire",
+      "power": 17,
+      "name": "Magmar",
+      "trainer": ""
+    },
+    {
+      "id": 14,
+      "type": "water",
+      "power": 1,
+      "name": "Magikarp",
+      "trainer": ""
+    },
+    {
+      "id": 15,
+      "type": "water",
+      "power": 20,
+      "name": "Vaporeon",
+      "trainer": ""
+    },
+    {
+      "id": 16,
+      "type": "electric",
+      "power": 22,
+      "name": "Jolteon",
+      "trainer": ""
+    },
+    {
+      "id": 17,
+      "type": "fire",
+      "power": 21,
+      "name": "Flareon",
+      "trainer": ""
+    },
+    {
+      "id": 18,
+      "type": "ground",
+      "power": 18,
+      "name": "Onix",
+      "trainer": ""
+    },
+    {
+      "id": 19,
+      "type": "electric",
+      "power": 15,
+      "name": "Electric",
+      "trainer": ""
+    },
+    {
+      "id": 20,
+      "type": "grass",
+      "power": 8,
+      "name": "Sunflora",
       "trainer": ""
     }
   ]
